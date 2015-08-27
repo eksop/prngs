@@ -1,4 +1,4 @@
-algodriver
+PRNG's
 ==========
 
-Algorithm Driver to run the algorithm with random numbers and check for the execution time using a profiling program.
+Psuedo Random Number genearator programs.
